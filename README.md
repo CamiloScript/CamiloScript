@@ -6,7 +6,7 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> Acerca de Mí
 
 - :credit_card: Mi nombre es **Camilo González Jara** <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="400" align="right"/>
-- :school: Estudiante Certificado en Desarrollo Fullstack Javascript **Generation Chile - Fullstack Open (Helsinski University)**
+- :school: Estudiante Certificado en Desarrollo Fullstack Javascript **Generation Chile**
 - :books: De Profesión **Ingeniero en Administración de Recursos Humanos**
 - :earth_asia: Vivo actualmente en **Santiago, Región Metropolitana, Chile**
 - :sweat_smile: Computin de Infancia, recién llegado al area de la programación, mi foco esta centrado en el desarrollo web sobre el cual estoy aprendiendo dia a dia.
