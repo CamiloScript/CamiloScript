@@ -34,8 +34,8 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Utilidades:</td>
-        <td><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg"/></td>                
-    </tr>
+        <td><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg"/><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/></td>                
+    </tr>   
 </table>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Si quieres saber mas, no dudes en contactarme por acá
