@@ -31,6 +31,7 @@
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=github"/></td>
+        <img src="https://img.icons8.com/color/48/000000/sass.png"/>
     </tr>
 </table>
 
