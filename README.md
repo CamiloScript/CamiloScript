@@ -30,12 +30,12 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=github"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=github"/>  <img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Utilidades:</td>
-        <td><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/> <img height="40" src="https://skillicons.dev/icons?i=postman"/></td>                
-    </tr>   
+        <td><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg"/>  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/>  <img height="40" src="https://skillicons.dev/icons?i=postman"/></td>                
+    </tr>   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"
 </table>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Si quieres saber mas, no dudes en contactarme por acá
